@@ -1,3 +1,5 @@
-<img width="5774" height="2106" alt="image" src="https://github.com/user-attachments/assets/d805026e-e36e-4f0c-b77e-6cdf0a88909c" />
+<div align="center">
+    <img src="https://i.imgur.com/js2PFQT.png" width="1000">
+</div>
 
 ### Transformational peer-to-peer video calling. Coming soon.
